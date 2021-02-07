@@ -14,7 +14,7 @@
 
 ### Live Demo
 
-[https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs](https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs)
+[https://praveenorugantitech.github.com/praveenorugantitech-counter-reactjs](https://praveenorugantitech.github.com/praveenorugantitech-counter-reactjs)
 
 
 ### Setup Local Instructions
